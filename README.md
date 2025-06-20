@@ -12,7 +12,7 @@ The project uses anonymized hospital records containing:
 - **Appointments**: Appointment dates, departments, doctors, patient IDs, status (Completed/No-Show)
 - **Prescriptions**: Prescription date, patient ID, medicine details, prescribing doctor
 - **Billing**: Patient charges, payment status, appointment linkage
-- 
+  
 ## 📈 Key Analyses Performed
 
 - 📌 **Appointment No-Show Rate** analysis overall, by department, and by patient
